@@ -1,1 +1,1 @@
-The delay in processing must be taken into account on the computer
+the delay in processing must be taken into account on the computer
